@@ -1,0 +1,21 @@
+{
+  "name": "mock-qouting-products",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Mockup for Consumer PoC",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "consumerServer.js",
+  "dependencies": {
+    "express": "*",
+    "swagger-express-mw": "*"
+  },
+  "devDependencies": {
+    "should": "^7.1.0",
+    "supertest": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node consumerServer.js"
+  }
+}

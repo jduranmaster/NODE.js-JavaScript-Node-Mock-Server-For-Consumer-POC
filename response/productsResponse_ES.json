@@ -1,0 +1,130 @@
+{
+   "productsResponse": {
+      "financeproduct": {
+         "product": [
+            {
+               "productId": "50",
+               "productDesc": "Clasico1",
+               "productTypeId": "1",
+               "productTypeDesc": "Standard",
+               "productStartDate": "01/01/2013",
+               "productEndDate": "30/12/2045",
+               "defaultRate": "6.5",
+               "manufacturerDepositContribution": "0",
+               "maxPayment": "12500",
+               "productValidations": {
+                  "validation": {
+                     "minDeposit": "0.0",
+                     "maxDeposit": "99.99",
+                     "rate": "10",
+                     "minAmountFinanced": "0",
+                     "maxAmountFinanced": "50000",
+                     "minVehicleAgeAtStart": "0",
+                     "maxVehicleAgeAtStart": "99999",
+                     "maxVehicleAgeAtEnd": "99999",
+                     "period": "120"
+                  }
+               }
+            },
+            {
+               "productId": "60",
+               "productDesc": "Clasico2",
+               "productTypeId": "1",
+               "productTypeDesc": "Standard",
+               "productStartDate": "01/01/2016",
+               "productEndDate": "30/12/2045",
+               "DefaultRate": "7.5",
+               "manufacturerDepositContribution": "0",
+               "maxPayment": "12500",
+               "productvalidations": {
+                  "validation": {
+                     "minDeposit": "0.0",
+                     "maxDeposit": "99.99",
+                     "rate": "10.0",
+                     "minAmountFinanced": "0",
+                     "maxAmountFinanced": "50000",
+                     "minVehicleAgeAtStart": "0",
+                     "maxVehicleAgeAtStart": "99999",
+                     "maxVehicleAgeAtEnd": "99999",
+                     "period": "120"
+                  }
+               }
+            },
+            {
+               "productId": "77",
+               "productDesc": "Clasico3",
+               "productTypeId": "2",
+               "productTypeDesc": "Conditional Sale APR",
+               "productStartDate": "01/01/2015",
+               "productEndDate": "30/12/2075",
+               "DefaultRate": "8.5",
+               "manufacturerDepositContribution": "0",
+               "maxPayment": "12500",
+               "productvalidations": {
+                  "validation": [
+                     {
+                        "minDeposit": "0.0",
+                        "maxDeposit": "99.99",
+                        "rate": "10",
+                        "minAmountFinanced": "0",
+                        "maxAmountFinanced": "50000",
+                        "minVehicleAgeAtStart": "0",
+                        "maxVehicleAgeAtStart": "99999",
+                        "maxVehicleAgeAtEnd": "99999",
+                        "period": "120"
+                     },
+                     {
+                        "minDeposit": "0.0",
+                        "maxDeposit": "99.99",
+                        "rate": "10",
+                        "minAmountFinanced": "0",
+                        "maxAmountFinanced": "50000",
+                        "minVehicleAgeAtStart": "0",
+                        "maxVehicleAgeAtStart": "99999",
+                        "maxVehicleAgeAtEnd": "99999",
+                        "period": "120"
+                     }
+                  ]
+               },
+               "capCodes": {
+                  "capCode": [
+                     {
+                        "capCode": "MA2 15SLN5HPIM 3"
+                     },
+                     {
+                        "capCode": "MA2 15SE 5HPIM 3"
+                     },
+                     {
+                        "capCode": "MA2 15SLN5HPIA 3"
+                     },
+                     {
+                        "capCode": "MA2 14S 5HDTM"
+                     },
+                     {
+                        "capCode": "MA2 14SAK5HPIM"
+                     },
+                     {
+                        "capCode": "MA2 15TMN5HPIA 2"
+                     },
+                     {
+                        "capCode": "MA2 15SPO5HPIM 1"
+                     },
+                     {
+                        "capCode": "MA2 13TS23HPIM 1"
+                     },
+                     {
+                        "capCode": "MA2 13TD23HPIM 1"
+                     },
+                     {
+                        "capCode": "MA2 13TS23HPIN 1"
+                     },
+                     {
+                        "capCode": "MA2 13TS23HPIT 1"
+                     }
+                  ]
+               }
+            }
+         ]
+      }
+   }
+}

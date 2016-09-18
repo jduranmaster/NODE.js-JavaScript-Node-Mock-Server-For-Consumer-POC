@@ -1,0 +1,90 @@
+{
+   "quotingOutput": {
+      "quoteTable": [
+         {
+            "quoteID": "1",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "2",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "3",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "4",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "5",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "6",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "7",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "8",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "9",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "10",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "11",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         },
+         {
+            "quoteID": "12",
+            "monthQuote": "513.76",
+            "monthInterest": "5.76",
+            "capital": "513.76",
+            "insuranceAmount": "0.0"
+         }
+      ]
+      }
+}
